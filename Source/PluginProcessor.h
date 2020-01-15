@@ -61,7 +61,7 @@ public:
 private:
     
     Synthesiser mySynth;
-    Synthesiser* myVoice;
+    SynthVoice* myVoice;
     
     double lastSampleRate;
     //==============================================================================

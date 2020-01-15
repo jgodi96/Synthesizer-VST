@@ -24,6 +24,8 @@ public:
     }
     void getParam (float* attack)
     {
+        env1.setAttack(double(*attack));
+        
         
     }
 
