@@ -1,4 +1,4 @@
-# SynthesizerJdgodi
+# Synthesizer
 Synthesizer vst that alters sound imputted by a midi controller (C++ and JUCE Framework)
 
 # What I learned
